@@ -1,0 +1,25 @@
+{
+  "name": "qr-file-sharing",
+  "version": "1.0.0",
+  "description": "File sharing application using QR codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariusGarbea/QR-File-Sharing.git"
+  },
+  "keywords": [
+    "QR",
+    "file",
+    "sharing",
+    "app"
+  ],
+  "author": "Dean Blank, Marius Garbea",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/MariusGarbea/QR-File-Sharing/issues"
+  },
+  "homepage": "https://github.com/MariusGarbea/QR-File-Sharing#readme"
+}
